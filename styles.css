@@ -1,0 +1,17 @@
+.container {
+  max-width: 350px;
+  margin: 30px auto;
+  padding: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.error {
+  margin-top: 10px;
+  color: red;
+  font-weight: bold;
+}
